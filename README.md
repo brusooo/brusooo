@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://github.com/brusooo/brusooo/blob/main/coding.gif"  />
+  <img height="200" src="https://github.com/brusooo/brusooo/blob/main/coding.gif"  />
 </div>
 
 ###
